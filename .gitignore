@@ -62,6 +62,11 @@ target/
 /.cci/
 /.idea/
 
+# Added by Sean
+# IntelliJ / JetBrains (anywhere in repo)
+**/.idea/
+*.iml
+
 # aiAgentStudioAddons/
 xtras/
 
